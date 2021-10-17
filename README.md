@@ -1,7 +1,7 @@
 # AI-Studio-飞桨常规赛：遥感影像地块分割 - 9月第6名方案
 
 ## 项目描述
-使用PaddleSeg进行地理分割任务
+使用PaddleSeg进行地理分割任务,main.ipynb可以直接在AI studio上运行
 
 ## 项目结构
 ```
